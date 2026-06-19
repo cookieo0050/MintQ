@@ -1,9 +1,19 @@
 <img width="594" height="178" alt="MintLogonameQIcon" src="https://github.com/user-attachments/assets/03ca832c-7da3-4d90-ba12-380eb38c6130" />
 
 
-This is a modifycation of the Quake 3 source code
+This is a modifycation of the Quake 3 source code 
+This engine is not meat to be used as a game itself i can but it should be used as
+library of code and tools for making your own quake like game.
 
+plans include
+* Inprove texture mapping
+* Physics system
+* Frames
+* Lighting
+
+===========================================================================================
 below this point is not writen by me.
+===========================================================================================
 
 
 This is the complete source code for winquake, glquake, quakeworld, and 
