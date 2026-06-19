@@ -1,3 +1,11 @@
+<img width="594" height="178" alt="MintLogonameQIcon" src="https://github.com/user-attachments/assets/03ca832c-7da3-4d90-ba12-380eb38c6130" />
+
+
+This is a modifycation of the Quake 3 source code
+
+below this point is not writen by me.
+
+
 This is the complete source code for winquake, glquake, quakeworld, and 
 glquakeworld.
 
