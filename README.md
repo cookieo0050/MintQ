@@ -11,9 +11,9 @@ plans include
 * Frames
 * Lighting
 
-===========================================================================================
+
 below this point is not writen by me.
-===========================================================================================
+
 
 
 This is the complete source code for winquake, glquake, quakeworld, and 
