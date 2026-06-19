@@ -11,9 +11,12 @@ plans include
 * Frames
 * Lighting
 
+This library of MintQ does not support an editor!
+
+This is the third game engine in the Mint line.
+
 
 below this point is not writen by me.
-
 
 
 This is the complete source code for winquake, glquake, quakeworld, and 
